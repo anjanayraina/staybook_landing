@@ -1,13 +1,70 @@
 .MainComponent{
-align-items: center;
-justify-content: space-around;
+/* align-items: center;
+justify-content: space-around; */
 
 padding-top:50px;
 padding-left: 50px;
 }
 
-/* .AiraXing{
+.AllHotelImages{
 
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
 
+}
 
-} */
+.AiraXing{
+    height:300px;
+    width: 300px;
+   
+
+}
+.AiraXingImage{
+   /* padding-right: 60px; */
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+
+}
+
+.JaiBalaji{
+    height:300px;
+    width: 300px;
+
+}
+.JaiBalajiImage{
+    /* padding-left: 30px; */
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+
+}
+
+.PinkyVilla{
+    height:300px;
+    width: 300px;
+
+}
+.PinkyVillaImage{
+    /* padding-left: 70px; */
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+
+}
+
+.JyotiMahal{
+    height:300px;
+    width: 300px;
+
+}
+.JyotiMahalImage{
+    /* padding-left: 60px;
+     */
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+
+}
+

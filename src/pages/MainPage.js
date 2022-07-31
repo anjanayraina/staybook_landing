@@ -10,6 +10,7 @@ return (
     <ImageAndBody />
     <div className = "normalText">Best Hotels in Delhi -</div>
     <AllHotels />
+    <hr className = "line"></hr>
     </>
 
 
