@@ -3,7 +3,7 @@ import React from 'react';
 import logo from "../images/staybookPhoto.png";
 import '../styles/Navbar.css';
 import  Dropdown  from './Dropdown.js'
-import { Element } from './Element.js';
+
 
 function Navbar(){
 
