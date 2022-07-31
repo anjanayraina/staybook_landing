@@ -4,6 +4,15 @@ color: black;
 
 font-size: 50px;
 padding-left: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.line{
+
+width: 90%;
+text-align:right;
+border-width:20;
+border-top: 3px dashed black;
 
 }
 

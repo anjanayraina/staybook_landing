@@ -1,0 +1,48 @@
+.header{
+padding-top: 50px;
+padding-left: 60px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.destinationImage{
+    height:300px;
+    width: 600px;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+
+.container{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+ 
+    
+}
+
+.text{
+
+    font-family: open sans;
+    font-size: 40px;
+   
+    color: #54595F;
+    padding-left : 20px;
+
+
+}
+
+.wrapper{
+
+    flex-direction: column;
+
+}
+
+.bookButton{
+  height: 130px;
+  width: 170px;
+background-color: #555;
+text-align: center;
+align-self: right;
+}
