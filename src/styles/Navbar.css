@@ -1,8 +1,40 @@
 
 
-.navbar{
-    padding-top: 30px;
+.logo{
+
+  padding-top: 30px;
   padding-right: 30px;
   
   padding-left: 30px;
+
+}
+
+.dropDown{
+
+  color: white;
+}
+
+.dropDown:hover {
+
+  background-color: coral;
+}
+
+.navbar{
+background-color: white;
+height : 10vh;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+
+}
+
+.Book {
+  padding: top 30px;
+  height: 30px;
+  width: 80px;
+  border: 2px dashed coral;
+  /* align-items: center; */
+  text-align: center;
+
 }

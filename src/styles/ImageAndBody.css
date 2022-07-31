@@ -1,0 +1,21 @@
+
+  
+.HotelImage{
+    padding-top: 50px;
+  
+    height:700px;
+    width: 100%;
+}
+
+  .centered {
+    padding-left:500px;
+    
+    width: 100%;
+    color: black;
+    font : Garamond  ;
+    font-size: 60px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
