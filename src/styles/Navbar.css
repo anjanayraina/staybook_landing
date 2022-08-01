@@ -39,8 +39,9 @@ justify-content: space-around;
   /* align-items: center; */
   text-align: center;
   font: impact;
+  
 
-  color: black;
+  color: white;
   background: orange;
   display: block;
   float: left;
@@ -54,33 +55,38 @@ justify-content: space-around;
 
 .TourPackage{
 font-size:20px;
-
+color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
 font: impact;
 }
 
 .Membership{
   font-size:20px;
-  
+  color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
   font: impact;
   }
 
   .Blogs{
     font-size:20px;
-  
+    color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
     font: impact;
   }
 
   .Contacts{
 
     font-size:20px;
-  
-  font: impact;
+    color: #7c795d;
+     font-family: 'Source Sans Pro', sans-serif; 
+     font-size: 20px;
+     
+     font-weight: 400; 
+     line-height: 32px; 
+  /* font: impact; */
   }
 
   .MyAccount{
 
     font-size:20px;
-  
+    color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
     font: impact;
 
   }
