@@ -34,11 +34,21 @@ justify-content: space-around;
 .Book {
   padding: top 30px;
   height: 30px;
-  width: 80px;
+  width: 60px;
   border: 2px dashed coral;
   /* align-items: center; */
   text-align: center;
   font: impact;
+
+  color: black;
+  background: orange;
+  display: block;
+  float: left;
+  padding: 1rem;
+  /* position: relative; */
+  
+  transition-duration: 0.5s;
+  font-size: 20px;
 
 }
 
