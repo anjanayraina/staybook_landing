@@ -9,10 +9,10 @@ function App() {
 
   
   return (
-    <>
+    <div className = "MainApp">
     < MainPage/>
      
-    </>
+    </div>
   );
 }
 

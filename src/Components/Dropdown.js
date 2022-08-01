@@ -5,10 +5,11 @@ function Dropdown(){
 
 return(
 
-<div>All Hotels</div>
+<div className = "DropDown" >All Hotels</div>
 
 )
 
 }
+
 
 export default Dropdown;

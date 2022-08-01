@@ -1,0 +1,25 @@
+.textTitle{
+
+padding-left : 60px;
+
+    font-size:50px;
+    font : serif;
+}
+
+.container{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.viewAll{
+
+    height: 60px;
+    font-size: 20px;
+    text-align: center;
+    width: 100px;
+    color: red;
+    background-color: #555;
+}

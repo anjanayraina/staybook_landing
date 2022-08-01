@@ -14,9 +14,9 @@ return (
     <Dropdown className = "dropDown"/>
     <div className = "TourPackage">Tour Packages</div>
     <div className = "Membership">Membership Program</div>
-    <div className = "Blogs">Blogs</div>
-    <div className = "Contacts">Contacts</div>
-    <div className = "MyAccount">My Account</div>
+    <div className = "Blogs" font ="impact">Blogs</div>
+    <div className = "Contacts" font= "impact">Contacts</div>
+    <div className = "MyAccount" font = "impact">My Account</div>
     <div className = "Book">Book</div>
   </div>
   

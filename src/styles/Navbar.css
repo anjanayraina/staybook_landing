@@ -10,14 +10,16 @@
 }
 
 .dropDown{
-
+  font-size:20px;
+  
+  font: impact;
   color: white;
 }
 
-.dropDown:hover {
+/* .dropDown:hover {
 
   background-color: coral;
-}
+} */
 
 .navbar{
 /* background-color: white;
@@ -36,6 +38,7 @@ justify-content: space-around;
   border: 2px dashed coral;
   /* align-items: center; */
   text-align: center;
+  font: impact;
 
 }
 
@@ -49,4 +52,25 @@ font: impact;
   font-size:20px;
   
   font: impact;
+  }
+
+  .Blogs{
+    font-size:20px;
+  
+    font: impact;
+  }
+
+  .Contacts{
+
+    font-size:20px;
+  
+  font: impact;
+  }
+
+  .MyAccount{
+
+    font-size:20px;
+  
+    font: impact;
+
   }
