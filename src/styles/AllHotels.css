@@ -4,13 +4,16 @@ justify-content: space-around; */
 
 padding-top:50px;
 padding-left: 50px;
+font-size:40px;
+width : 1500px;
 }
 
 .AllHotelImages{
 
     align-items: center;
-    justify-content: space-around;
+    justify-content: stretch; 
     padding: 50px;
+    
 
 }
 
@@ -68,3 +71,16 @@ padding-left: 50px;
 
 }
 
+.textRow{
+
+
+    align-items: center;
+    justify-content: stretch; 
+    font-size: 20px;
+}
+
+.row{
+
+    height: 40px;
+    width : 100px;
+}

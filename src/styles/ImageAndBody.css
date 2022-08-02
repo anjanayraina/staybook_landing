@@ -5,6 +5,7 @@
   
     height:700px;
     width: 100%;
+    
 }
 
   .centered {
@@ -13,10 +14,23 @@
     width: 100%;
     color: black;
     font : Garamond  ;
-    font-size: 60px;
+    font-size: 70px;
     position: absolute;
-    top: 60%;
+    top: 70%;
     left: 50%;
+
     transform: translate(-50%, -50%);
-    color: white; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; 
+    color: white; font-family: 'Trocchi', serif;  font-weight: normal; 
+    color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #0ff,
+    0 0 80px #0ff,
+    0 0 90px #0ff,
+    0 0 100px #0ff,
+    0 0 150px #0ff;
+
+    
   }

@@ -25,7 +25,14 @@ function AllHotels() {
 
   </tr>
   <tr>
-    
+  <tr className = "textRow">
+    <th className = "row">Airport pick-up/drop-off, room service, and complimentary Wi-Fi are all available at Hotel Aira Xing. The budget hotel Aira Xing is a 10-minute drive from the New Delhi Railway Station and the Jhandewalan Metro Station</th>
+    <th className = "row">Air - conditioned rooms include a desk, a flat-screen TV, a private bathroom, as well as bed linen and towels. Each room at Hotel Jai Balaji includes a seating space. A continental or à la carte breakfast is available at the hotel.</th>
+    <th className = "row">The rooms have king-size beds, cable TV, and a large bathroom with hot and cold water 24 hours a day. A balcony is available in some rooms. The Hotel Jyoti Mahal is located little over half a kilometre from Connaught Place.
+</th>
+   <th className = "row" >Air conditioning, a flat-screen TV with satellite channels, a fridge, a kettle, a shower, a hairdryer, and a desk are included in all guest rooms. Every room in the hotel has a closet and a private bathroom.
+</th>
+  </tr>
   </tr>
 </table>
 </div>
