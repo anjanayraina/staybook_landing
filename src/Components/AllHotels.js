@@ -25,14 +25,7 @@ function AllHotels() {
 
   </tr>
   <tr>
-    {/* <td>Centro comercial Moctezuma</td>
-
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
     
-    <td>Mexico</td> */}
   </tr>
 </table>
 </div>
