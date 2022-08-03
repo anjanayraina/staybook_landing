@@ -13,11 +13,11 @@ return (
     <img src={logo} className="logo"/>
     <Dropdown className = "dropDown"/>
     <div className = "TourPackage">Tour Packages</div>
-    <div className = "Membership">Membership Program</div>
-    <div className = "Blogs" >Blogs</div>
-    <div className = "Contacts">Contacts</div>
-    <div className = "MyAccount" >My Account</div>
-    <div className = "Book">Book</div>
+    <div className = "TourPackage">Membership Program</div>
+    <div className = "TourPackage" >Blogs</div>
+    <div className = "TourPackage">Contacts</div>
+    <div className = "TourPackage" >My Account</div>
+    <div className = "TourPackage">Book</div>
   </div>
   
 

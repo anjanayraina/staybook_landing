@@ -53,28 +53,28 @@ justify-content: space-around;
 
 }
 
-.TourPackage{
+/* .TourPackage{
 font-size:20px;
-color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
+color: black; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
 font: impact;
-}
+} */
 
 .Membership{
   font-size:20px;
-  color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
+  color: black; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
   font: impact;
   }
 
   .Blogs{
     font-size:20px;
-    color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
+    color: black; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
     font: impact;
   }
 
   .Contacts{
 
     font-size:20px;
-    color: #7c795d;
+    color: black;
      font-family: 'Source Sans Pro', sans-serif; 
      font-size: 20px;
      
@@ -86,9 +86,84 @@ font: impact;
   .MyAccount{
 
     font-size:20px;
-    color: #7c795d; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
+    color: black; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: 400; line-height: 32px; 
     font: impact;
 
   }
 
+
+  /* .TourPackage:hover{
+
+
+    background-color: orange !important;
+  } */
+  
+
+  .Membership:hover{
+
+
+    background-color: orange !important;
+  }
+
+  .Blogs:hover{
+
+    background-color: orange !important;
+  }
+  
+  .Contacts:hover{
+
+    background-color: orange !important;
+  }
+
+  .MyAccount:hover{
+
+    background-color: orange !important;
+  }
+  
+  .TourPackage::before {  
+    transform: scaleX(0);
+    transform-origin: bottom right;
+  }
+  
+  .TourPackage:hover::before {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+  
+  .TourPackage::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    inset: 0 0 0 0;
+    background: orange;
+    z-index: -1;
+    transition: transform .3s ease;
+  }
+  
+  .TourPackage {
+    position: relative;
+    font-size: 20px;
+  }
+  
+  html {
+    block-size: 100%;
+    inline-size: 100%;
+  }
+  
+  body {
+    min-block-size: 100%;
+    min-inline-size: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    display: grid;
+    place-content: center;
+    font-family: system-ui, sans-serif;
+  }
+  
+  @media (orientation: landscape) {
+    body {
+      grid-auto-flow: column;
+    }
+  }
   

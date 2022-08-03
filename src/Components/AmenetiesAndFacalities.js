@@ -1,12 +1,13 @@
 import React from 'react'
 import '../styles/AmenetiesAndFacalities.css';
+import AmenetiesFacalitiesTable from './AmenetiesFacalitiesTable.js';
 function AmenetiesAndFacalities() {
   return (
     <div className = "textContainer">    <h1 className = "textTitle">Amenities & Facilities</h1>
-    <div className = "container"><h3 className = "textParagraph">If you are looking for a relaxing, refreshing and rejuvenating experience 
-    altogether, we offer all of that under one roof.</h3>
- <div className = "viewAll">View All</div></div>
-    
+    <div className = "container"><div className = "textParagraph">If you are looking for a relaxing, refreshing and rejuvenating experience 
+    altogether, we offer all of that under one roof.</div>
+ <button className = "glow-on-hover">View All</button></div>
+    <AmenetiesFacalitiesTable />
     </div>
 
   );
