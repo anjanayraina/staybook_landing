@@ -10,26 +10,6 @@ function AllHotels() {
    
 <div className = "MainComponent">
 
-  {/* <div className = "HotelNames">
-   
-   
-    
- 
-  </div>
-  <div className = "AllHotelImages">
-  
-    
-   
-   
-
-  </div>
- 
-  <div className = "textRow">
-    
-    
-    
-    </div>
-   */}
 
    <div className ="allCards">
    <div className = "hotel">
