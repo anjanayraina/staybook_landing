@@ -2,11 +2,13 @@
 
 .logo{
 
-  padding-top: 30px;
+  /* padding-top: 30px;
   padding-right: 30px;
   
-  padding-left: 30px;
+  padding-left: 30px; */
 
+  margin-left: 10px;
+  margin-top: 20px;
 }
 
 .dropDown{
@@ -27,6 +29,8 @@ height : 10vh; */
 display: flex;
 align-items: center;
 justify-content: space-around;
+/* width : 100%; */
+width :screen;
 
 
 }

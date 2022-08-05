@@ -18,3 +18,9 @@ border-top: 3px dashed black;
 
 }
 
+*{
+    -ms-overflow-style: none;
+  }
+  ::-webkit-scrollbar {
+    display: none;
+  } 

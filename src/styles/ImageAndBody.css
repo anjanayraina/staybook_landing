@@ -1,17 +1,17 @@
 
   
 .HotelImage{
-    padding-top: 50px;
   
-    height:700px;
+  
+     height:700px; 
     width: 100%;
     
 }
 
   .centered {
-    padding-left:500px;
+    padding-left:200px;
     
-    width: 100%;
+    width: 1200px;
     color: black;
     font : Garamond  ;
     font-size: 70px;
