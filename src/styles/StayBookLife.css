@@ -31,6 +31,8 @@
         padding-left : 20px;
         font-size: 30px;
         font-family: 'DM Serif Display';
+        margin-top: 30px;
+        padding-right: 20px;
     
     
     }
@@ -51,8 +53,8 @@
 
     .title{
 
-        text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
-        font-size: 70px
+        
+        font-size: 50px
     }
 
     

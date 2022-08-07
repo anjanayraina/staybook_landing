@@ -83,12 +83,13 @@ width : 1500px;
 
 .row{
 
- font-size: 15px;
+ font-size: 20px;
  margin-top:30px;
  max-height: 100px;
  max-width: 300px;
  font-family: "DM Serif Display",serif;
  padding-bottom: 50px;
+ font-size: 19px;
 
 }
 
@@ -96,7 +97,9 @@ width : 1500px;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    font-size:60px;
+    font-size:30px;
+    font-family: 'DM Serif Display',serif;
+font-style: bold;
 
 }
 
@@ -138,13 +141,15 @@ margin-right: 120px;
 .hotelName{
 
     font-size: 42px;
-    font-size: 3rem;
+    font-size: 10px;
     font-family: 'DM Serif Display',serif;
     line-height: 1.1;
     text-transform: none;
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
     margin-bottom:20px;
+    font-family: 'DM Serif Display',serif;
+    font-style: bold;
 }
 
 
@@ -161,7 +166,7 @@ margin-right: 120px;
     z-index: 0;
     border-radius: 10px;
     margin-right:50px;
-    margin-top :20px;
+    margin-top :10px;
    
 }
 

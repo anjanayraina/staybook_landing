@@ -5,8 +5,8 @@ color: black;
 font-size: 50px;
 padding-left: 50px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
-font-size: 70px
+font-family: 'DM Serif Display',serif;
+font-style: bold;
 }
 
 .line{
