@@ -4,8 +4,10 @@
     color: black;
     font-size: 40px;
     padding-left: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-family: 'DM Serif Display',serif;
+    margin-left: 50px;
+    font-size: 50px;
+    font-weight: 100;
 }
 
 .container{
@@ -28,8 +30,8 @@
 
 .textParagraph{
 
-   
-    color: #54595F;
+    margin-left: 50px;
+    color: black;
     padding-left : 50px;
     font-family: 'DM Serif Display';
     font-size: 30px;
