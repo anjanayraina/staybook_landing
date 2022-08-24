@@ -121,3 +121,36 @@ margin-bottom:3rem;
 
 
 }
+
+.List{
+    margin-left: 9rem;
+    font-size:5rem;
+    flex-direction: column;
+    display:flex;
+}
+
+.contentWrapper{
+
+    flex-direction: row;
+    display:flex;
+    margin-bottom:3rem;
+}
+
+.listText{
+    padding: 0.5rem;
+    font-size:1rem;
+    font-style: sans-serif;
+}
+
+.touristDiv{
+
+    font-size:2.5rem;
+    margin-left:5rem;
+}
+
+.TouristText{
+    font-size: 1.8rem;
+    width: 35rem;
+    margin-top: 3rem;
+    margin-left: 4rem;
+}
