@@ -1,0 +1,123 @@
+.FooterHotelImage{
+
+    width: 80%;
+    height: 35rem;
+    margin-left: 10rem;
+    margin-top: 8rem;
+margin-bottom:3rem;
+}
+
+.textHotel{
+
+    padding-left:200px;
+    
+    width: 1200px;
+    color: black;
+    font : Garamond  ;
+    font-size: 50px;
+    position: absolute;
+    top: 229rem;
+    left: 50%;
+    padding-left: 200px;
+    width: 1200px;
+    color: black;
+    font: Garamond;
+    font-size: 60px;
+    position: absolute;
+    top: 229rem;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    color: white; font-family: 'Trocchi', serif;  font-weight: normal; 
+    color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #0ff,
+    0 0 80px #0ff,
+    0 0 90px #0ff,
+    0 0 100px #0ff,
+    0 0 150px #0ff;
+    
+
+}
+
+.randomJargon{
+    padding-left: 200px;
+    width: 1200px;
+    color: black;
+    font: Garamond;
+    font-size: 30px;
+    position: absolute;
+    top: 240rem;
+    left: 50%;
+    padding-left: 200px;
+    width: 1200px;
+    color: black;
+    font: Garamond;
+    font-size: 30px;
+    position: absolute;
+    top: 236rem;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Trocchi', serif;
+    font-weight: normal;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
+.callUS{
+    padding-left: 200px;
+    width: 1200px;
+    color: black;
+    font: Garamond;
+    font-size: 30px;
+    position: absolute;
+    top: 240rem;
+    left: 50%;
+    padding-left: 200px;
+    width: 1200px;
+    color: black;
+    font: Garamond;
+    font-size: 30px;
+    position: absolute;
+    top: 244rem;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Trocchi', serif;
+    font-weight: normal;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+
+    left: 73%;
+}
+
+.number{
+    padding-left: 200px;
+    width: 1200px;
+    color: black;
+    font: Garamond;
+    font-size: 30px;
+    position: absolute;
+    top: 240rem;
+    left: 50%;
+    padding-left: 200px;
+    width: 1200px;
+    color: black;
+    font: Garamond;
+    font-size: 30px;
+    position: absolute;
+    top: 249rem;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Trocchi', serif;
+    font-weight: normal;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+    left: 75.1%;
+
+
+}
